@@ -21,5 +21,6 @@ Projects inspired by real-world ETL and automation scenarios focused on improvin
 
 ## Projects
 
-- ETL_Workflow_Automation
-- Analytical_Dataset_Generation
+- https://github.com/kaiolima001/Alteryx-ETL-Automation/blob/main/ETL_Workflow_Automation.md
+
+- https://github.com/kaiolima001/Alteryx-ETL-Automation/blob/main/Analytical_Dataset_Generation.md
