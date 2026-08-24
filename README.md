@@ -1,19 +1,25 @@
 # Alteryx ETL Automation
 
-ETL workflows and data preparation processes designed to improve efficiency and analytical readiness.
+Collection of ETL and data preparation projects focused on automation, efficiency and analytical readiness.
 
 ## Technologies
 
 - Alteryx Designer
 - SQL Server
 
-## Features
+## Key Topics
 
 - ETL Automation
 - Data Preparation
 - Workflow Optimization
+- Data Integration
 - Analytical Data Sets
 
-## Objective
+## Portfolio Overview
 
-Reduce manual effort and improve data processing efficiency through automation.
+Projects inspired by real-world ETL and automation scenarios focused on improving efficiency and reducing manual effort.
+
+## Projects
+
+- ETL_Workflow_Automation
+- Analytical_Dataset_Generation
